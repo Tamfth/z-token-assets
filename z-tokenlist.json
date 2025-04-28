@@ -1,0 +1,19 @@
+{
+  "name": "Z Token List",
+  "timestamp": "2025-04-28T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xFC42Ab5305b70dA28373fFC94C2f50dEb7bc1cB9",
+      "name": "Z",
+      "symbol": "Z",
+      "decimals": 18,
+      "logoURI": "https://github.com/Tamfth/z-token-assets/blob/main/logo-256x256.png?raw=true"
+    }
+  ]
+}
